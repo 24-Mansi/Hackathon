@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(241, 60, 181);
+    width: 60%;
+}
+
+/* .conatiner{
+    padding: 40px;
+} */
+
+.header{
+    /* display:flex; */
+    background-color: white;
+    margin: 20px;
+    
+}
+
+.profile-image{
+    height: 80px;
+    width: 80px;
+}
+
+.section-1{
+    /* width: auto; */
+    /* margin-left: 10%; */
+    background-color: black;
+    color: white;
+    /* display: flex; */
+    flex-direction: column;
+   }
+
+   .section-A{
+    display: flex;
+   }
+
+   .Hotels{
+    width: 200px;
+    height: 150px;
+   
+   }
+
+   h1{
+    color: gray;
+   }
+    
+.section-B{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+
+p1{
+    color: rgb(240, 82, 179);
+    text-decoration: underline;
+}
+
+
